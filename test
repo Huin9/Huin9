@@ -1,0 +1,26 @@
+
+2.  파싱룰 설명
+현재 기준으로 파싱하는 룰자체가 어떻게 구성되어있는지 flow를 설명해주실수 있을까요?
+
+가) LG (노란색 반제된 부분은 인터넷 검색으로 확인/추가)
+- QNED, NANO :  mpc 값이 카테고리명+숫자+숫자/문자 인 경우, '(QNED)\s*\d\w'
+- FHD : 지정문자+두자리 숫자인 경우 'LR\d\d', 'LQ\d\d', 'LM\d\d', 'MQ\d\d', 'LN\d\d', 'WQ\d\d', 'TQ\d\d', 'LP\d\d', 'TN\d\d', 'TL\d\d'
+- LIFE : 지정문자+한(두)자리 숫자인 경우 'LX\d', 'ART\d\d'
+- OLED : 지정문자+(숫자)인 경우 'A\d','B\d','C\d','CS\d','G\d','M\d', 'Z\d','R\d','W\d','E\d', 'BX','CS','CX','GX','WX','ZX'
+  (키릴문자 С 는 알파벳 C로 변경)
+나) SS
+- NEO_QLED : 지정문자+두(세)자리 숫자인 경우 'QN\d\d\d', 'QN\d\d'
+- QLED : 지정문자+한~세자리 숫자인 경우 'Q\d\d\d', 'Q\d\d', 'Q[A-Z]\d'
+- Lifestyle : 지정문자+한(두)자리 숫자인 경우 'LST\d', 'LS\d\d'
+ 
+삼성 Terrace는  Lifestyle  로 분류 되어야 하기 때문에 Table 시트 무시하고 Lifestyle로 분류함
+
+
+- OLED: 지정문자+두자리 숫자인 경우 'S\d\d'
+- UHD : 두번째 문자가 U를 포함한 지정문자+두자리 숫자인 경우 '[A-Z]U[A-Z]?\d\d'
+- FHD/HD : 문자 T+네자리 숫자인 경우 'T\d\d\d\d'
+
+위 기준으로 파싱하여 category와 series를 구하고, index 시트에 따라 inch, year 데이터를 추출합니다.
+
+파싱이 되지 않은 row는 다시한번 table 시트로 매칭하여 필요 데이터를 추출합니다.
+
