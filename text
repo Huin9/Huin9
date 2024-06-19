@@ -1,0 +1,779 @@
+안녕하세요. 
+HE DX전략팀의 장승엽책임입니다.
+
+수신 : 신정원책임님
+참조 : 이동원팀장님, 이재원책임님(LGCNS)
+
+아래의 LGE GCP를 사용하기 위해서는
+사양을 지정하고 GP통해서 입찰을 진행해야된다고 합니다.
+이에 관련 현재진행중인 VM사양 확정하여주시면 감사하겠습니다.(유첨참조)
+관련하여 폐팀의 김수성선임님이 F/up예정입니다.
+
+최규백책임님,
+HE본부 GCP Project생성지원을 위한
+TA담당자를 선정 부탁드립니다.
+
+---------- Original Message ----------
+
+From : 디지털분석플랫폼팀 김충희 선임(choonghee.kim@lge.com, 82-2-3777-6189)
+To : 장승엽 책임(steve.chang), 최규백 책임(kb.choi)
+Cc : 김명석 팀장(dean.kim), "이재원" <leejaew@lgcns.com>, 신정원 선임(jeongwon.shin), eorms8335@foresys.co.kr, soungmo@foresys.co.kr, "'박현지'" <xianzi@lgcns.com>, "유지근" <alwmr@lgcns.com>, "이동원" <realmc2000@lgcns.com>, "정수현" <sh.jung@lgcns.com>, "홍세라" <srhong0302@lgcns.com>, "남상원" <nknn2022@lgcns.com>, 진소라 책임(sora.jin), [GROUP]HE-DXT
+Date : 2022/06/02 15:13:35 [GMT+09:00]
+Subject : RE: [문의] GCP내 DB생성방법 - RE: 마젠토 데이터 연계 문의 드립니다.
+안녕하세요 업무혁신담당 디지털분석플랫폼팀 김충희 입니다.
+
+장승엽 책임님
+
+Google Cloud Project 생성 프로세스 공유 드리니
+유첨 자료 참고 해주시고
+추가로 필요한 내용이 있다면
+미팅 으로 논의 하면 될 것으로 보입니다.
+
+최규백 책임님
+
+HE 본부 GCP Project 생성 지원을 위한
+TA 담당자 선정 부탁 드립니다.
+
+ 
+감사합니다.
+김충희 드림
+─────────────────────────
+김충희 / Choonghee Kim
+Digital Analytics Platform Team
+Business Process Innovation Division, CFO
+email: choonghee.kim@lge.com
+mobile: +82-10-9199-6945
+LG 트윈 타워 / 서울특별시 영등포구 여의대로 128
+─────────────────────────
+---------- Original Message ----------
+
+From : 디지털분석플랫폼팀 김명석 팀장(dean.kim@lge.com, 82-2-3777-5458)
+To : 장승엽 책임(steve.chang), 김충희 선임(choonghee.kim)
+Cc : 최규백 책임(kb.choi), "이재원" <leejaew@lgcns.com>, 신정원 선임(jeongwon.shin), eorms8335@foresys.co.kr, soungmo@foresys.co.kr, "'박현지'" <xianzi@lgcns.com>, "유지근" <alwmr@lgcns.com>, "이동원" <realmc2000@lgcns.com>, "정수현" <sh.jung@lgcns.com>, "홍세라" <srhong0302@lgcns.com>, "남상원" <nknn2022@lgcns.com>, 진소라 책임(sora.jin), [GROUP]HE-DXT
+Date : 2022/06/02 11:54:22 [GMT+09:00]
+Subject : RE: [문의] GCP내 DB생성방법 - RE: 마젠토 데이터 연계 문의 드립니다.
+충희선임님,
+
+EAP 인프라 안에서 HE본부용 프로젝트 분리해서 셋업하는 방안으로 검토해 봅시다....
+장승엽책임님과 필요한 인프라 자원과 비용 주체 등 논의해 주세요.
+
+
+감사합니다. / Thanks & Best Regards,
+ 
+김명석(Dean Kim, 金明錫) 드림
+CFO부문, 업무혁신담당, 디지털분석플랫폼팀
+
+---------- Original Message ----------
+
+From : HE DX전략팀 장승엽 책임(steve.chang@lge.com, 82-2-3777-5713)
+To : 최규백 책임(kb.choi)
+Cc : 김명석 팀장(dean.kim), "이재원" <leejaew@lgcns.com>, 신정원 선임(jeongwon.shin), eorms8335@foresys.co.kr, soungmo@foresys.co.kr, 김충희 선임(choonghee.kim), "'박현지'" <xianzi@lgcns.com>, "유지근" <alwmr@lgcns.com>, "이동원" <realmc2000@lgcns.com>, "정수현" <sh.jung@lgcns.com>, "홍세라" <srhong0302@lgcns.com>, "남상원" <nknn2022@lgcns.com>, 진소라 책임(sora.jin), [GROUP]HE-DXT
+Date : 2022/06/02 11:44:24 [GMT+09:00]
+Subject : [문의] GCP내 DB생성방법 - RE: 마젠토 데이터 연계 문의 드립니다.
+최규백책임님
+
+안녕하세요? HE DX 전략팀 장승엽책임입니다.
+
+저희가 현재 LGCNS에 있는 데이터들을 GCP에 이동하려고 합니다.
+이에 HE본부 HE디지털마케팅팀에서 Dashboard를 제작하여 활용코자합니다.
+이에 전자내에 GCP하려고하는데, 지원을 요청드리고자합니다. (방법/프로세스 etc.)
+**CNS분을 소개해주시면, 저희와 협력하고 계신분과 join시켜드리면 더 빠를것 같습니다.
+
+감사합니다.
+
+“If it cannot be measured, it cannot be managed” — Peter Drucker
+=====================================================
+Steve Chang
+Data Scientist, HE DX Strategy Team
+Home Entertainment Company
+LG Electronics Inc.  
+Mobile :+82-10-7524-8009
+www.lge.com
+======================================================
+ 
+---------- Original Message ----------
+
+From : 디지털분석플랫폼팀 김명석 팀장(dean.kim@lge.com, 82-2-3777-5458)
+To : "이재원" <leejaew@lgcns.com>
+Cc : 진민희 책임(minhee.jin), 신정원 선임(jeongwon.shin), 장승엽 책임(steve.chang), 박찬민 책임(chanmin.park), eorms8335@foresys.co.kr, soungmo@foresys.co.kr, 김충희 선임(choonghee.kim), "'박현지'" <xianzi@lgcns.com>, "유지근" <alwmr@lgcns.com>, "이동원" <realmc2000@lgcns.com>, "정수현" <sh.jung@lgcns.com>, "홍세라" <srhong0302@lgcns.com>, "남상원" <nknn2022@lgcns.com>, 진소라 책임(sora.jin), 이현성 책임(hyunsung.lee), 이민호 팀장(meanho.lee)
+Date : 2022/05/31 13:28:40 [GMT+09:00]
+Subject : RE: 마젠토 데이터 연계 문의 드립니다.
+신정원선임님,
+
+통화로 설명한 바와 같이, CNS GCP (전자 내부망이 아닌) 환경으로 자사 데이터 제공함에 있어서 합당한 점검 (법무 & 정보보호)을 받았는지
+확인해 보시고 다시 요청해 주셔야 하겠습니다.
+
+특히, 연계를 요청한 OBS2 SALES_ORDER 테이블은 개인정보가 포함된 것이기에 더욱 타이트한 절차를 거쳐야 합니다.
+
+
+감사합니다. / Thanks & Best Regards,
+ 
+김명석(Dean Kim, 金明錫) 드림
+CFO부문, 업무혁신담당, 디지털분석플랫폼팀
+
+---------- Original Message ----------
+
+From : "이재원" <leejaew@lgcns.com>
+To : 진민희 책임(minhee.jin), 신정원 선임(jeongwon.shin), 장승엽 책임(steve.chang), 박찬민 책임(chanmin.park)
+Cc : eorms8335@foresys.co.kr, soungmo@foresys.co.kr, 김명석 팀장(dean.kim), 김충희 선임(choonghee.kim), "'박현지'" <xianzi@lgcns.com>, "유지근" <alwmr@lgcns.com>, "이동원" <realmc2000@lgcns.com>, "정수현" <sh.jung@lgcns.com>, "홍세라" <srhong0302@lgcns.com>, "남상원" <nknn2022@lgcns.com>
+Date : 2022/05/31 10:47:23 [GMT+09:00]
+Subject : RE: 마젠토 데이터 연계 문의 드립니다.
+안녕하세요? 박찬민 책임님
+ 
+진민희 책임님으로부터 아래 메일에 대한 업무 담당자라고 전달받아 메일 드립니다.
+ 
+Magento 데이터 중 OBS 판매 수량을 가져오기 위해 GCP를 통해 연계하고자 하였으나 
+아래 메일 스크린샷과 같이 저희 쪽 GCP가 LG CNS 소유여서 연계가 불가능하다는 답변을 받았습니다.
+ 
+그래서 TA Agent를 통한 DB 직접 접속으로 데이터를 가져오고자 하는데 가능할지 문의 드립니다.
+관련하여 프로세스는 어떻게 진행하면 될지 함께 가이드 부탁 드리며,
+혹시 위 방법이 어렵다면 다른 어떤 방법으로 데이터를 받을 수 있을지도 문의 드립니다.
+ 
+감사합니다.
+ 
+ 
+ 
+ 
+ 
+From:이재원 
+Sent: Tuesday, May 31, 2022 8:49 AM
+To: 진민희 <minhee.jin@lge.com>; 신정원 <jeongwon.shin@lge.com>; 장승엽 <steve.chang@lge.com>
+Cc: eorms8335@foresys.co.kr; soungmo@foresys.co.kr; dean.kim@lge.com; choonghee.kim@lge.com; '박현지' <xianzi@lgcns.com>; 유지근 <alwmr@lgcns.com>; 이동원 <realmc2000@lgcns.com>; 정수현 <sh.jung@lgcns.com>; 홍세라 <srhong0302@lgcns.com>; 남상원 <nknn2022@lgcns.com>
+Subject: RE: 마젠토데이터연계문의드립니다.
+ 
+안녕하세요? 진민희 책임님
+ 
+지난 5/27일에 문의 드린 하기 메일 확인 부탁 드립니다.
+ 
+감사합니다.
+ 
+From:이재원 
+Sent: Friday, May 27, 2022 11:18 AM
+To: 진민희 <minhee.jin@lge.com>
+Cc: eorms8335@foresys.co.kr; soungmo@foresys.co.kr; dean.kim@lge.com; choonghee.kim@lge.com; '박현지' <xianzi@lgcns.com>; 유지근 <alwmr@lgcns.com>; 이동원 <realmc2000@lgcns.com>; 정수현 <sh.jung@lgcns.com>; 홍세라 <srhong0302@lgcns.com>; 남상원 <nknn2022@lgcns.com>; 신정원 <jeongwon.shin@lge.com>; 장승엽 <steve.chang@lge.com>
+Subject: 마젠토데이터연계문의드립니다.
+Importance: High
+ 
+안녕하세요? 진민희 책임님.
+ 
+아래 메일의 김미현 책임님께서 다른 조직으로 이동하셨다고 들어서
+책임님께 재 문의 드립니다.
+ 
+내용 확인 하시어 회신 부탁 드리겠습니다.
+ 
+감사합니다.
+ 
+From:이재원 
+Sent: Friday, May 27, 2022 11:03 AM
+To: 김미현 <mh1228.kim@lge.com>; '장승엽' <steve.chang@lge.com>
+Cc: eorms8335@foresys.co.kr; soungmo@foresys.co.kr; dean.kim@lge.com; choonghee.kim@lge.com; 박현지 <xianzi@lgcns.com>; 유지근 <alwmr@lgcns.com>; 이동원<realmc2000@lgcns.com>; 정수현 <sh.jung@lgcns.com>; 진민희 <minhee.jin@lge.com>; 홍세라 <srhong0302@lgcns.com>; 남상원 <nknn2022@lgcns.com>; 신정원 <jeongwon.shin@lge.com>
+Subject: RE: [담당자확인요청] RE: 1차회의결과 // RE [회의안내] Data driven TV 플랫폼홈화면광고 Dashboard 구축관련// RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+Importance: High
+ 
+안녕하세요? 김미현 책임님
+ 
+Magento 데이터 중 OBS 판매 수량을 가져오고자 지난 5/1일에 안내해 주신 가이드 대로
+LG전자 프로세스를 진행해서 연계하고자 하였으나 아래 메일 스크린샷과 같이 
+저희 쪽 GCP가 LG CNS 소유여서 연계가 불가능하다는 답변을 받았습니다.
+ 
+그래서 TA Agent를 통한 DB 직접 접속으로 데이터를 가져오고자 하는데 가능할지 문의 드립니다.
+관련하여 프로세스는 어떻게 진행하면 될지 함께 가이드 부탁 드리며,
+혹시 위 방법이 어렵다면 다른 어떤 방법으로 데이터를 받을 수 있을지도 문의 드립니다.
+ 
+감사합니다.
+ 
+ 
+ 
+ 
+From:김미현 <mh1228.kim@lge.com> 
+Sent: Tuesday, March 1, 2022 8:04 PM
+To: 이재원 <leejaew@lgcns.com>
+Cc: eorms8335@foresys.co.kr; soungmo@foresys.co.kr; dean.kim@lge.com; 김성인 <sunginkim@lgcns.com>; choonghee.kim@lge.com; 박현지 <xianzi@lgcns.com>; 유지근 <alwmr@lgcns.com>; 이동원 <realmc2000@lgcns.com>; 정수현 <sh.jung@lgcns.com>; 진민희 <minhee.jin@lge.com>; 홍세라 <srhong0302@lgcns.com>
+Subject: RE: [담당자확인요청] RE: 1차회의결과 // RE [회의안내] Data driven TV 플랫폼홈화면광고 Dashboard 구축관련// RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+ 
+안녕하세요 디지털분석플랫폼팀 김미현입니다
+
+연계가 필요한 시스템/테이블을 데이터포털 적재여부를 확인하셔서 전자멤버를 통해 연계 요청 (뷰 생성 요청) 해주시면 현업팀장님승인 받은 EP 품의내역 근거로 연계 해드리도록 하겠습니다
+
+(개인정보항목 미포함)
+
+참조바랍니다
+감사합니다
+
+
+
+---------- Original Message ----------
+
+From : 이재원 <leejaew@lgcns.com>
+To : 김미현 책임(mh1228.kim)
+Cc : '박대근' <eorms8335@foresys.co.kr>, soungmo@foresys.co.kr <soungmo@foresys.co.kr>, 김명석 팀장(dean.kim), 김성인 <sunginkim@lgcns.com>, 김충희 선임(choonghee.kim), 박현지 <xianzi@lgcns.com>, 유지근 <alwmr@lgcns.com>, 이동원 <realmc2000@lgcns.com>, 정수현 <sh.jung@lgcns.com>, 진민희 선임(minhee.jin), 홍세라 <srhong0302@lgcns.com>
+Date : 2022/02/28 13:53:24 [GMT+09:00]
+Subject : RE: [담당자확인요청] RE: 1차 회의 결과 // RE [회의 안내] Data driven TV 플랫폼 홈화면 광고 Dashboard 구축 관련 // RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+안녕하세요? 김미현 책임님,
+ 
+HE 대시보드 구축을 위해 Magento 데이터 중 OBS 판매 수량을 가져오고자 합니다.
+관련하여 아래 메일에 안내해주신 바와 같이 BQ에 접속하여 가져오기 위해 서비스 계정 생성을 요청 드립니다.
+ 
+서비스 계정 생성을 위해 필요한 정보 알려주시면 바로 회신 드리도록 하겠습니다.
+ 
+감사합니다.
+ 
+From:김미현 <mh1228.kim@lge.com> 
+Sent: Thursday, January 27, 2022 12:02 PM
+To: 이재원 <leejaew@lgcns.com>
+Cc: 진민희 <minhee.jin@lge.com>; 김성인 <sunginkim@lgcns.com>; 이동원 <realmc2000@lgcns.com>; 홍세라 <srhong0302@lgcns.com>; 박현지 <xianzi@lgcns.com>; 유지근 <alwmr@lgcns.com>; 정수현 <sh.jung@lgcns.com>; dean.kim@lge.com; choonghee.kim@lge.com
+Subject: RE: [담당자확인요청] RE: 1차회의결과 // RE [회의안내] Data driven TV 플랫폼홈화면광고 Dashboard 구축관련 // RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+ 
+안녕하세요 디지털분석플랫폼팀 김미현입니다.
+ 
+어제 유첨과 같이 장승엽 책임님쪽으로 회신을 드려서 
+해당 메일의 수신자에 포함이 되어 있었다고 생각을 했어서 별도 회신을 드리지 않았네요.
+ 
+메일 내용 참조 부탁드립니다.
+ 
+현재 Magento 의 데이터 중 일부는 EDL (Enterprise Data Lake) 시스템 내에 적재를 하고 있고,
+그 데이터 외에 추가 필요 데이터가 필요하면 적재 요청을 말씀 드린 상태입니다.
+ 
+또한 EDL에  적재 된 데이터를 가져가시는 방식은 저희가 뷰를 생성해서 권한을 부여해 드리고
+서비스 계정을 생성해드리면, 그 계정을 활용해서 GCP BQ에 접속하셔서 가져가시는 방식으로 활용하시면 됩니다.
+(계정은 JSON 방식으로 KEY 제공)
+ 
+참조 부탁드립니다.
+감사합니다.
+ 
+ 
+ 
+ 
+---------- Original Message ----------
+
+From : 이재원 <leejaew@lgcns.com>
+To : 김미현 책임(mh1228.kim), 진민희 선임(minhee.jin)
+Cc : 김성인 <sunginkim@lgcns.com>, 이동원 <realmc2000@lgcns.com>, 홍세라 <srhong0302@lgcns.com>, 박현지 <xianzi@lgcns.com>
+Date : 2022/01/27 11:54:01 [GMT+09:00]
+Subject : RE: [담당자확인요청] RE: 1차 회의 결과 // RE [회의 안내] Data driven TV 플랫폼 홈화면 광고 Dashboard 구축 관련 // RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+안녕하세요? 김미현책임님, 진민희선임님
+ 
+아래와 같이 담당자를 안내받아서 문의드립니다.
+김미현책임님께는 이미 메일을 드리긴 했지만 아직 회신을 못 받아서 함께 요청 드립니다.
+ 
+OBS내의 판매수량 관련하여 Magento 에서 EDL(?)을 통해 데이터 I/F를 받고자 합니다
+API 또는 어떤 방식으로 저희가 데이터를 받을 수 있을 지 안내 부탁 드리겠습니다.
+ 
+감사합니다.
+ 
+ 
+ 
+ 
+ 
+ 
+From:이재원 
+Sent: Wednesday, January 26, 2022 9:49 AM
+To: mh1228.kim@lge.com
+Cc: 김성인 <sunginkim@lgcns.com>; 이동원 <realmc2000@lgcns.com>; 홍세라 <srhong0302@lgcns.com>; 박현지 <xianzi@lgcns.com>
+Subject: FW: [담당자확인요청] RE: 1차회의결과// RE [회의안내] Data driven TV 플랫폼홈화면광고 Dashboard 구축관련 // RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+ 
+안녕하세요? 김미현책임님. 
+LG CNS 이재원책임입니다.
+ 
+다름이 아니라 아래 메일 내용 중 OBS내의 판매수량 관련하여 Magento 에서 EDL(?)을 통해 데이터 I/F를 받고자 합니다.
+(EDL이 무엇인지도 함께 여쭈어 봅니다)
+저희가 데이터 I/F를 받기 위해 필요한 사항에 대해 가이드 부탁 드리겠습니다.
+ 
+감사합니다.
+ 
+From:이동원 <realmc2000@lgcns.com> 
+Sent: Tuesday, January 25, 2022 2:01 PM
+To: 김성인 <sunginkim@lgcns.com>; 이재원 <leejaew@lgcns.com>
+Cc: 황준식 <junsik.hwang@lgcns.com>; 권유정 <stella.kwon@lgcns.com>
+Subject: Re: [담당자확인요청] RE: 1차회의결과 // RE [회의안내] Data driven TV 플랫폼홈화면광고 Dashboard 구축관련 // RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+ 
+성인팀장님 / 재원책임님
+ 
+Smart TV 관련 DB 화및대시보드작업이업무 Scope에포함되었습니다.
+ 
+하기내용인데요. 따로설명한번드리겠습니다.
+ 
+ 
+ 
+ 
+ 
+________________________________________
+보낸사람:정지윤 <jiyoon.chung@lge.com>
+보낸날짜: 2022년 1월 25일화요일오후 1:51
+받는사람:장승엽 <steve.chang@lge.com>; 고용국 <matthias.ko@lge.com>; mh1228.kim@lge.com <mh1228.kim@lge.com>
+참조:문종성 <jongsung.moon@lge.com>; 박연미 <ireen.park@lge.com>; 임주현 <shirin.im@lge.com>; 김광호 <kwangho100.kim@lge.com>; 김규영 <kyuyoung2.kim@lge.com>; 황준식 <junsik.hwang@lgcns.com>; 이동원 <realmc2000@lgcns.com>; HE-DXT@lge.com <HE-DXT@lge.com>; TV OBS팀(340107) <##340107@lge.com>; 김시은 <seeeun.kim@lge.com>; 정지윤 <jiyoon.chung@lge.com>; choonghee.kim@lge.com <choonghee.kim@lge.com>
+제목: RE: [담당자확인요청] RE: 1차회의결과 // RE [회의안내] Data driven TV 플랫폼홈화면광고 Dashboard 구축관련 // RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준) 
+ 
+안녕하세요. 영업/SCM PI팀 정지윤입니다.
+ 
+장승엽 책임님, 고용국 책임님,
+제가 업무 도메인이 변경되어 person in charge로서 추후 f/up까지 해드릴 수는 없지만
+기존 진행했던 업무 기준으로 알고 있었던 가이드는 송부드리겠습니다.
+본사 GMC에서 운영하시는 OBS Dashboard를 기준으로 말씀드리면 아래와 같은 Data flow를 가지고 있는 것으로 알고 있습니다. 
+(상세 확인은 OBS Dashboard 담당자께 부탁드립니다.)
+LG.com, Magento, 기타 >>> EDL >>>> OBS Dashboard
+GA360 >>>>>>>>>>>>>>>>>>>>>> OBS Dashboard
+ 
+매출, 판매수량 등을 어느 시스템을 원천으로 바라볼지에 대한 의사결정은 기안하시는 팀에서 주도적으로 하시면 될 것으로 보이나
+전사 Data Governance에 맞는 flow로 기획하고 계신지에 대해서는 디지털분석플랫폼팀 김미현 책임님과 상세 점검 및 확인이 필요합니다.
+또한 EDL로 부터 Data I/F를 받는 기술적인 부분에 대해서도 김미현 책임님이 contact point인 것으로 알고 있습니다. 
+ 
+김미현 책임님,
+가이드 수정이 필요하면 재회신부탁드립니다.
+ 
+감사합니다.
+ 
+ 
+정 지 윤  Ji-Yoon Chung
+Sales/SCM PI Team, Business Process Innovation Div.                              
+Office: 82-2-3777-5474
+Mobile: 82-10-5704-5290     
+
+ 
+---------- Original Message ----------
+
+From : 디지털오퍼레이션팀 문종성 팀장(jongsung.moon@lge.com, 82-2-3777-3351)
+To : 장승엽 책임(steve.chang), 고용국 책임(matthias.ko), 정지윤 선임(jiyoon.chung)
+Cc : 박연미 책임(ireen.park), 임주현 선임(shirin.im), 김광호 팀장(kwangho100.kim), 김규영 선임(kyuyoung2.kim), junsik.hwang@lgcns.com, realmc2000@lgcns.com, [GROUP]HE-DXT, [GROUP]TV OBS팀(340107), 김시은 선임(seeeun.kim)
+Date : 2022/01/25 12:23:11 [GMT+09:00]
+Subject : RE: [담당자확인요청] RE: 1차 회의 결과 // RE [회의 안내] Data driven TV 플랫폼 홈화면 광고 Dashboard 구축 관련 // RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+장승엽 책임님
+ 
+내부 확인한 결과 Magento에서 EDL을 통해 유관 시스템에 하루에 한번 오더 관련 데이터를 송신해 주고 있습니다.
+대시보드 제작을 위한 데이터 적재를 기획하신다고 하면 해당 EDL을 활용하시는 것이 좋을 듯 합니다.
+ 
+관련해서 폐팀은 고용국 책임님, 당시 EDL을 주관했던 업무혁신 담당자 정지윤 선임님을 소개해 드립니다.
+ 
+감사합니다.
+ 
+ 
+고책임님 : 수제 건 관련해서 HE DX전략팀 장승엽 책임님과 논의해 주시기 바랍니다.
+ 
+정지윤 선임님 : 업무혁신 내 담당자 확인 부탁 드립니다.
+ 
+감사합니다.
+ 
+ 
+Thank you / 고맙습니다.
+-------------------------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+JS Moon, 문종성    |  Team Leader, 팀장
+Digital Operations Team |  Digital Commerce & Marketing Solutions Division
+Global Marketing Center
+LG Electronics, Inc.
+
+T    +82-2-3777-3351
+M   +82-10-3036-0614
+jongsung.moon@lge.com
+ 
+ 
+ 
+---------- Original Message ----------
+
+From : HE DX전략팀 장승엽 책임(steve.chang@lge.com, 82-2-3777-5713)
+To : 문종성 팀장(jongsung.moon)
+Cc : 박연미 책임(ireen.park), 임주현 선임(shirin.im), 김광호 팀장(kwangho100.kim), 김규영 선임(kyuyoung2.kim), junsik.hwang@lgcns.com, realmc2000@lgcns.com, [GROUP]HE-DXT, [GROUP]TV OBS팀(340107), 김시은 선임(seeeun.kim)
+Date : 2022/01/25 11:38:33 [GMT+09:00]
+Subject : RE: [담당자확인요청] RE: 1차 회의 결과 // RE [회의 안내] Data driven TV 플랫폼 홈화면 광고 Dashboard 구축 관련 // RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+문종성 팀장님
+안녕하세요? HE DX 전략팀 장승엽책임입니다.
+ 
+저희 본부에서 smart TV data driven마케팅에서
+dashboard를 구현하고자 합니다.
+이에 마젠토데이터를 API로 연결하고자 합니다.
+ 
+관련하여서 기술논의할 CNS담당자를 확인요청드립니다.
+
+감사합니다.
+ 
+“If it cannot be measured, it cannot be managed” — Peter Drucker
+=====================================================
+Steve Chang
+Data Scientist, HE DX Strategy Team
+Home Entertainment Company
+LG Electronics Inc.  
+Mobile :+82-10-7524-8009
+www.lge.com
+======================================================
+ 
+---------- Original Message ----------
+
+From : LG채널광고사업팀 박연미 책임(ireen.park@lge.com, 82-2-3777-6631)
+To : 장승엽 책임(steve.chang)
+Cc : 임주현 선임(shirin.im), 김광호 팀장(kwangho100.kim), 김규영 선임(kyuyoung2.kim), junsik.hwang@lgcns.com, realmc2000@lgcns.com, [GROUP]HE-DXT, [GROUP]TV OBS팀(340107), 김시은 선임(seeeun.kim)
+Date : 2022/01/25 11:30:50 [GMT+09:00]
+Subject : RE: [담당자확인요청] RE: 1차 회의 결과 // RE [회의 안내] Data driven TV 플랫폼 홈화면 광고 Dashboard 구축 관련 // RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+장승엽책임님 - 넵, 별도메일로각각담당자소개연결하겠습니다. 
+감사합니다. 
+ 
+ 
+Regards,
+Ireen Park
+Senior Manager, LG webOS Ad Business Team, HE Company
+Office: 82-2-3777-6631 / Mobile: 82-10-7769-2528  
+LG Twin Towers, 128, Yeoui-daero, Yeongdeungpo-gu, Seoul 150-721, Korea
+ 
+ 
+---------- Original Message ----------
+
+From : HE DX전략팀장승엽책임(steve.chang@lge.com, 82-2-3777-5713)
+To : 박연미책임(ireen.park)
+Cc : 임주현선임(shirin.im), 김광호팀장(kwangho100.kim), 김규영선임(kyuyoung2.kim), junsik.hwang@lgcns.com, realmc2000@lgcns.com, [GROUP]HE-DXT, [GROUP]TV OBS팀(340107), 김시은선임(seeeun.kim)
+Date : 2022/01/25 11:28:58 [GMT+09:00]
+Subject : [담당자확인요청] RE: 1차회의결과 // RE [회의안내] Data driven TV 플랫폼홈화면광고 Dashboard 구축관련 // RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+박연미책임님
+저희 Dashboard검토중입니다.
+관련하여서, 한국/알폰소데이터 
+담당자 소개를 부탁드립니다.
+감사합니다.
+---------- Original Message ----------
+
+From : TV OBS팀 임주현 선임(shirin.im@lge.com, 82-2-3777-6847)
+To : 김광호 팀장(kwangho100.kim), 김규영 선임(kyuyoung2.kim), junsik.hwang@lgcns.com, realmc2000@lgcns.com
+Cc : 신석홍 전무/담당(steve.shin), [GROUP]HE-DXT, [GROUP]TV OBS팀(340107), 장승엽 책임(steve.chang)
+Date : 2022/01/25 10:41:41 [GMT+09:00]
+Subject : 1차 회의 결과 // RE [회의 안내] Data driven TV 플랫폼 홈화면 광고 Dashboard 구축 관련 // RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+수신자 제위
+ 
+안녕하세요
+1차 회의 결과 안내드립니다.
+바쁘신데 참석해 주셔서 감사합니다. 도와주셔서 감사합니다
+ 
+ 
+[필요한데이터]		
+DB로만들어서한판에구현을요청드림	
+NO	데이터종류	데이터소속	1/25 회의진행
+1	CTR
+(Impression, Click 회수)	TLAMP	추후진행
+2	QR 회수	GA360	1차로진행, 가능한시점최대한빨리 회신요청 
+3	ATC, WTB 회수	GA360	1차로진행, 가능한시점최대한빨리 회신요청
+4	OBS내의판매수량	Magento
+(LG.Com의하위시스템, 
+P
+ayment 결제시스템)
+*Concentrix API열어서데이터끌어당기는방법확인	1차로진행, 가능한시점최대한빨리 회신요청
+* 위의데이터는모두 LG전자내의 Data임	
+
+** GA360에서 판매수량은 볼 수 있는데 Loss Rate 가 20% 정도가있어서
+   실제 판매수량보다는 20% 정도 적게 나오는 이슈가 있음 
+   (LG.Com -> GA360으로 데이터 Transfer 될때 20% 정도 Loss발생하는데 개선이안된다는 시스템 담당자 답변받음)
+    고칠수가 없는 상태임
+ 
+ 
+ 
+수신 : CNS 황준식 책임님
+ 
+ 안녕하세요
+ 
+결론 : API를 통해서 데이터를 하나로 묶은 후, Dashboard를 만드는 방법을 생각하고 / CNS에서 내부적으로 관련부서와 기술 검토를 한 후에
+         일정을 수립해 보아야 함, 혹시라도 지금하고 있는 Operation을 자동화할 수 있는 방법이 있다면 부분적으로라도 바로 개선 요청드림
+ 
+        1) 솔루션 어떻게 할건지? 2) 일정이 어떤지? 3) 예상비용을 회신 부탁드립니다.
+ 
+추후 기술적인 검토 미팅은 김광호팀장님, 장승엽책임님과 논의 예정입니다.
+ 
+ 
+ 
+ 
+감사합니다.
+TV OBS팀 임주현 드림
+ 
+-----------------------------------------------------------------
+Shirin Im 임주현
+TV OBS Team
+E-mail: shirin.im@lge.com
+Office : +82-2-3777-6847
+Mobile : +82-10-5511-9084
+LG Twin Towers, 128, Yeoui-daero
+Yeongdeungpo-gu, Seoul 150-721, Korea
+ 
+---------- Original Message ----------
+
+From : TV OBS팀 임주현 선임(shirin.im@lge.com, 82-2-3777-6847)
+To : 김광호 팀장(kwangho100.kim), 김규영 선임(kyuyoung2.kim)
+Cc : 신석홍 전무/담당(steve.shin), [GROUP]HE-DXT, [GROUP]HE디지털마케팅팀(307104), [GROUP]TV OBS팀(340107), 강우진 팀장(woojin1.kang), 김시은 선임(seeeun.kim), 김은혜 팀장(eh.kim), 박상희 Task Leader(sanghee.park), 박연미 책임(ireen.park), 장승엽 책임(steve.chang), 정원희 책임(wh.jung), 신정원 선임(jeongwon.shin)
+Date : 2022/01/20 10:48:17 [GMT+09:00]
+Subject : [회의 안내] Data driven TV 플랫폼 홈화면 광고 Dashboard 구축 관련 // RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+김광호 팀장님, 김규영 선임님
+ 
+ 
+안녕하세요
+바쁘신 와중에도 회신 감사합니다.
+ 
+회의에는 박종우 팀장님, 저, 장승엽 책임이 참석하려고 합니다.
+마컴 일정은 김규영 선임님과 확인하였습니다.
+ 
+일정 : 1월 25일 (화) / 시간 : 오전 10시~11시
+장소 : 서관 20층 커피머신앞 tv 북미영업 회의실
+          => 혹시 장소가 협소하다고 판단되시면 마컴쪽에서 변경 예약 부탁드립니다.
+ 
+감사합니다.
+TV OBS팀 임주현 드림
+ 
+-----------------------------------------------------------------
+Shirin Im 임주현
+TV OBS Team
+E-mail: shirin.im@lge.com
+Office : +82-2-3777-6847
+Mobile : +82-10-5511-9084
+LG Twin Towers, 128, Yeoui-daero
+Yeongdeungpo-gu, Seoul 150-721, Korea
+ 
+---------- Original Message ----------
+
+From : HE디지털마케팅팀 김광호 팀장(kwangho100.kim@lge.com, 82-2-3777-6531)
+To : 임주현 선임(shirin.im)
+Cc : 신석홍 전무/담당(steve.shin), [GROUP]HE-DXT, [GROUP]HE디지털마케팅팀(307104), [GROUP]TV OBS팀(340107), 강우진 팀장(woojin1.kang), 김시은 선임(seeeun.kim), 김은혜 팀장(eh.kim), 박상희 Task Leader(sanghee.park), 박연미 책임(ireen.park), 장승엽 책임(steve.chang), 김광호 팀장(kwangho100.kim), 김규영 선임(kyuyoung2.kim), 정원희 책임(wh.jung), 신정원 선임(jeongwon.shin)
+Date : 2022/01/19 22:16:36 [GMT+09:00]
+Subject : RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+
+주현선임님
+
+일단 저희랑 미팅을 한번 부탁 합니다
+Tag manager360등 tagging 솔루션들이 있고 사실 광고 집행전 이런 설계를 셋팅후 광고 집행하는게 기본 프로세스고 그러면 GA360내 대시보드로 볼 수 있는데 ... 이런 셋팅 지원이 잘 안되는 것인지??
+저희팀과 세부 이슈를 논의를 해주시면 바로 해결될 영역도 있을거 같네요. 저희팀과 일정 arrange 부탁 합니다
+
+---------------------------------
+This email is sent via mobile.
+
+
+---------- Original Message ----------
+
+From : TV OBS팀 임주현 선임(shirin.im@lge.com, 82-2-3777-6847)
+To : 신석홍 전무/담당(steve.shin)
+Cc : [GROUP], [GROUP]HE디지털마케팅팀(307104), [GROUP]TV OBS팀(340107), 강우진 팀장(woojin1.kang), 김광호 팀장(kwangho100.kim), 김시은 선임(seeeun.kim), 김은혜 팀장(eh.kim), 박상희 Task Leader(sanghee.park), 박연미 책임(ireen.park), 장승엽 책임(steve.chang)
+Date : 2022/01/19 14:32:19 [GMT+09:00]
+Subject : RE: 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+담당님
+ 
+네, 관리되고있습니다.
+2분기 부터 측정하여 자료 가지고 있고
+아직 시간이 없어서 4분기 최종 보고 장표를 작성하지 못했는데, 작성중에 있습니다.
+ 
+하기는 3분기 자료입니다. (본부장님 보고 자료)
+ 
+ 
+이 또한 대쉬보드가 부재하여 수기로 장승엽 책임 혼자서 주기적으로 업데이트하고 있는데
+일주일에 1번하기도 어려워서 2주에 한번정도,, 겨우하고 있는 실적입니다.
+DX팀에서도 Data Scientist가 없어서 CDP 연결작업등,, 각종 프로젝트로 인해서
+매일 새벽 3시까지 업무하고 있는 상황이라 
+ 
+나라가 42개로 늘어나서 국가별 세세한 코치를 제떄 못하고 있는 상황입니다.
+꼭 좀 도와주세요
+ 
+* DX Driver교육도들었는데 지금 제가 사용할 수없는 파이썬 교육만 하고있고,,
+   결국 사전교육도 들을 시간이 없어서 현재는 필요한 교육만 선별해서 듣고 있는 실정입니다.
+ 
+ 
+** 참조로, OBS가 있는 나라는 중간 지표 측정가능하고
+    OBS 없는 나라들은 김대신 책임쪽에 요청해서 LG.Com에 GA360빨리 태깅해달라고 이야기하였고
+    해당 국가들에 가능하면 LG.Com Minisite활용해서 할 것을 안내하였습니다.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+감사합니다.
+TV OBS팀 임주현 드림
+ 
+-----------------------------------------------------------------
+Shirin Im 임주현
+TV OBS Team
+E-mail: shirin.im@lge.com
+Office : +82-2-3777-6847
+Mobile : +82-10-5511-9084
+LG Twin Towers, 128, Yeoui-daero
+Yeongdeungpo-gu, Seoul 150-721, Korea
+ 
+---------- Original Message ----------
+
+From : HE디지털마케팅담당 신석홍 전무/담당(steve.shin@lge.com, 82-2-3777-3375)
+To : 임주현 선임(shirin.im)
+Cc : [GROUP]HE-DXT, [GROUP]TV OBS팀(340107), 김시은 선임(seeeun.kim), 박연미 책임(ireen.park), 장승엽 책임(steve.chang), [GROUP]HE디지털마케팅팀(307104), 김광호 팀장(kwangho100.kim), 박상희 Task Leader(sanghee.park), 신석홍 전무/담당(steve.shin), 김은혜 팀장(eh.kim), 강우진 팀장(woojin1.kang)
+Date : 2022/01/19 14:22:01 [GMT+09:00]
+Subject : 추가)RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+참, 하기 Conversion funnel은 Impression/CTR만 나와 있는데, 그렇게 클릭한 고객이 닷컴으로 유입되 고관여 행동을 하는지가 트레이싱이 
+될텐데 혹시 관리 되고 있나요?
+ 
+ 
+  
+Steve Shin / 신석홍
+He Digital Marketing
+---------- Original Message ----------
+
+From : HE디지털마케팅담당 신석홍 전무/담당(steve.shin@lge.com, 82-2-3777-3375)
+To : 임주현 선임(shirin.im)
+Cc : [GROUP]HE-DXT, [GROUP]TV OBS팀(340107), 김시은 선임(seeeun.kim), 박연미 책임(ireen.park), 장승엽 책임(steve.chang), [GROUP]HE디지털마케팅팀(307104), 김광호 팀장(kwangho100.kim), 박상희 Task Leader(sanghee.park), 신석홍 전무/담당(steve.shin), 김은혜 팀장(eh.kim), 강우진 팀장(woojin1.kang)
+Date : 2022/01/19 07:16:31 [GMT+09:00]
+Subject : RE: [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+CTR을 0.5프로로 두배 개선하는 UI, 컨텐츠 개선을 논의해 봅시다.
+
+
+감사합니다.
+
+
+---------------------------------
+This email is sent via mobile.
+
+
+---------- Original Message ----------
+
+From : TV OBS팀 임주현 선임(shirin.im@lge.com, 82-2-3777-6847)
+To : [GROUP], [GROUP]TV OBS팀(340107), 김시은 선임(seeeun.kim), 박연미 책임(ireen.park), 장승엽 책임(steve.chang)
+Cc : [GROUP]HE디지털마케팅팀(307104), 김광호 팀장(kwangho100.kim), 박상희 Task Leader(sanghee.park), 신석홍 전무/담당(steve.shin)
+Date : 2022/01/18 21:40:49 [GMT+09:00]
+Subject : [송부] 2022 1분기 Data Driven TV Platform 광고 CTR (1/17 누적기준)
+수신자 제위
+ 
+1월 17일 누적 기준 공유드립니다.
+자료를 엑셀파일 국별로 하나씩 열어서  조각을 붙여서 하다보니 공유가 늦어졌습니다.
+최소한 주 1회는 공유하고 임플리케이션 찾아서 법인에 가이드하는 것이 목표입니다.
+ 
+ 
+총 42개국중 9개국 방송 on Air하였으며
+평균 CTR은 0.25%입니다.
+ 
+브라질이 하루 클릭수 5천회에 달하여
+1일 클릭수 평균이 1천회 이상으로 올라갔습니다.
+ 
+ 
+											
+						Total	Total	Total		Per Day	
+						값					
+국가명	Flight	기간	Broadcasting Days(day)	Target OS	Target TV set	합계 : Impressions	합계 : Clicks	CTR	Broadcasting Days(day)	Click Per day	Remark
+Belgium	Flight 1	1/3~1/21	15	NC3.0~webOS 6.0	402,848	819,379	1,978	0.24%	15	132	
+Belgium 요약						819,379	1,978	0.24%	15	132	
+Brazil	Flight 1	1/3~1/12	10	NC3.0~webOS 6.0	11,507,229	14,143,458	53,208	0.38%	10	5,321	
+	Flight 2	1/13~1/16	4	NC3.0~webOS 6.0	11,507,229	8,156,117	17,198	0.21%	4	4,300	Ends Soon Tag
+Brazil 요약						22,299,575	70,406	0.32%	14	5,029	
+Egypt	Flight 1	1/14~1/31	4	NC3.0~webOS 5.0	638,426	285,368	1,063	0.37%	4	266	
+Egypt 요약						285,368	1,063	0.37%	4	266	
+France	Flight 1	1/12~1/26	6	NC3.0~webOS 4.5	1,400,138	1,282,585	2,293	0.18%	6	382	
+France 요약						1,282,585	2,293	0.18%	6	382	
+Indonesia	Flight 1	1/16~1/22	2	NC3.0~webOS 5.0	530,578	267,319	580	0.22%	2	290	
+Indonesia 요약						267,319	580	0.22%	2	290	
+Saudi	Flight 1	1/1~1/8	8	NC3.0~webOS 6.0	386,637	917,084	2,982	0.33%	8	373	Mega이후최대세일메시지
+	Flight 2	1/14~1/31	4	NC3.0~webOS 6.0	386,637	304,224	1,373	0.45%	4	343	Promotion Scheme Change (DC + Gift)
+Saudi 요약						1,221,308	4,355	0.36%	12	363	
+Spain	Flight 1	1/6~1/19	12	NC3.0~webOS 4.5	3,563,458	5,168,947	7,237	0.14%	12	603	
+Spain 요약						5,168,947	7,237	0.14%	12	603	
+UK	Flight 1	1/1~1/6	6	NC3.0~webOS 4.0	2,897,458	2,855,370	3,044	0.11%	6	507	5 year Warranty, 중간에중단(고객반응별로였음)
+UK 요약						2,855,370	3,044	0.11%	6	507	
+Vietnam	Flight 1	1/1~1/14	14	NC3.0~webOS 5.0	2,313,106	3,468,557	5,016	0.14%	14	358	Tet Promotion
+	Flight 2	1/15~1/31	3	NC3.0~webOS 5.0	2,313,106	736,635	1,033	0.14%	3	344	Tet  + Ends Soon Tag
+Vietnam 요약						4,205,192	6,049	0.14%	17	356	
+총합계						38,405,043	97,005	0.25%	88	1,102	
+											
+ 
+ 
+ 
+CTR (Click / Impression Times)										
+합계 : CTR	OS Year	운영체제										
+	2012	2013		2014	2015	2016	2017	2018	2019	2020	2021	총합계
+국가명	N.Cast 3.0	N.Cast 4.0	N.Cast 4.5	webOS 1.0	webOS 2.0	webOS:3.0	webOS:3.5	webOS:4.0	webOS:4.5	webOS:5.0	webOS:6.0	
+Belgium	0.39%	0.37%	0.42%	0.93%	1.16%	0.12%	0.12%	0.10%	0.23%	0.19%	1.19%	0.24%
+Brazil	0.64%	0.34%	0.31%	0.62%	0.95%	0.07%	0.07%	0.09%	0.11%	0.12%	0.54%	0.32%
+Egypt	-	-	-	2.29%	1.76%	0.30%	0.18%	0.34%	0.49%	0.40%	-	0.37%
+France	0.41%	0.23%	0.34%	0.61%	0.57%	0.06%	0.07%	0.06%	0.10%	-	-	0.18%
+Indonesia	0.85%	0.68%	0.63%	0.57%	1.24%	0.11%	0.12%	0.11%	0.14%	0.11%	-	0.22%
+Saudi	1.27%	0.62%	0.50%	1.69%	2.83%	0.12%	0.14%	0.22%	0.36%	0.22%	1.16%	0.36%
+Spain	0.20%	0.10%	0.20%	0.43%	0.37%	0.04%	0.03%	0.05%	0.08%	-	-	0.14%
+UK	0.13%	0.10%	0.14%	0.39%	0.36%	0.09%	0.06%	0.06%	-	-	-	0.11%
+Vietnam	1.00%	0.13%	0.13%	0.53%	0.92%	0.09%	0.07%	0.10%	0.17%	0.15%	1.95%	0.14%
+총합계	0.49%	0.28%	0.26%	0.58%	0.87%	0.09%	0.07%	0.10%	0.13%	0.16%	0.62%	0.25%
+												
+ 
+ 
+클릭 회수를 OS별로 분석하여
+국가별로 Implication을 정리했습니다.
+참조부탁드리오며
+특히 중아지역에서는 최근 TV까지 방송하는것이 유리해보입니다 (최근 TV도 클릭수가 많으니 2nd TV 구매를 고려하는듯함)
+일부 국가의 경우에는 이러한 임플리케이션 고려하여 마케팅 메세지를 변경하던가
+노출 TV 를 변경해야할 것으로 보이며 법인에 별도로 가이드하겠습니다.
+ 
+ 
+ 
+ 
+	Click Times 																	
+	합계 : Clicks	OS Year	운영체제															
+		2012	2013		2014	2015	2016	2017	2018	2019	2020	2021	총합계					
+	국가명	N.Cast 3.0	N.Cast 4.0	N.Cast 4.5	webOS 1.0	webOS 2.0	webOS:3.0	webOS:3.5	webOS:4.0	webOS:4.5	webOS:5.0	webOS:6.0						
+	Belgium	146	535	382	22	74	147	123	107	105	306	31	1,978					
+	Brazil	9,682	24,548	27,952	488	1,593	519	509	699	844	921	2,651	70,406					
+	Egypt				20	84	168	98	187	276	230		1,063					
+	France	292	765	689	24	42	106	106	105	164			2,293					
+	Indonesia	29	84	187	1	20	41	56	49	64	49		580					
+	Saudi	68	707	525	66	496	233	289	512	146	504	809	4,355					
+	Spain	823	1,634	3,725	177	286	123	83	138	248			7,237					
+	UK	353	854	1,065	56	132	236	185	163				3,044					
+	Vietnam	91	395	2,619	47	939	349	272	382	297	639	19	6,049					
+	총합계	11,484	29,522	37,144	901	3,666	1,922	1,721	2,342	2,144	2,649	3,510	97,005					
+																		
+																		
+																		
+	Click Portion for Each OS																
+	합계 : Clicks	OS Year	운영체제															
+		2012	2013		2014	2015	2016	2017	2018	2019	2020	2021	총합계					
+	국가명	N.Cast 3.0	N.Cast 4.0	N.Cast 4.5	webOS 1.0	webOS 2.0	webOS:3.0	webOS:3.5	webOS:4.0	webOS:4.5	webOS:5.0	webOS:6.0		Implication				
+	Belgium	7%	27%	19%	1%	4%	7%	6%	5%	5%	15%	2%	100%	2020 Customers also show big interests for new TVs, next time no need to turn on ads for 2021 TVs				
+	Brazil	14%	35%	40%	1%	2%	1%	1%	1%	1%	1%	4%	100%	Old Customers show big interests only, Next time no need to turn on ads for recent Tvs (2018~2021)				
+	Egypt	-	-	-	2%	8%	16%	9%	18%	26%	22%	-	100%	Current Segmentation is fine, Many recent bought customers consider 2nd TVs				
+	France	13%	33%	30%	1%	2%	5%	5%	5%	7%	-	-	100%	Current Segmentation is fine				
+	Indonesia	5%	14%	32%	0%	3%	7%	10%	8%	11%	8%	-	100%	Current Segmentation is fine, Many recent bought customers consider 2nd TVs				
+	Saudi	2%	16%	12%	2%	11%	5%	7%	12%	3%	12%	19%	100%	Current Segmentation is fine, Many recent bought customers consider 2nd TVs				
+	Spain	11%	23%	51%	2%	4%	2%	1%	2%	3%	-	-	100%					
+	UK	12%	28%	35%	2%	4%	8%	6%	5%	-	-	-	100%					
+	Vietnam	2%	7%	43%	1%	16%	6%	4%	6%	5%	11%	0%	100%	2020 Customers also show big interests for new TVs, next time no need to turn on ads for 2021 TVs				
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+ 
+
+ 
+ 
+ 
+감사합니다.
+TV OBS팀 임주현 드림
+ 
+-----------------------------------------------------------------
+Shirin Im 임주현
+TV OBS Team
+E-mail: shirin.im@lge.com
+Office : +82-2-3777-6847
+Mobile : +82-10-5511-9084
+LG Twin Towers, 128, Yeoui-daero
+Yeongdeungpo-gu, Seoul 150-721, Korea
+ 
+ 
+ 
+ 
+ 
+________________________________________
+상기 메시지와 첨부화일 내에는 비밀정보가 포함되어 있을 수 있으며, 지정된 수신자에 한하여 조회 및 사용될 수 있습니다. 만약 송신자의 실수로 인하여 상기 메시지를 수신하였다면, 송신자에게 메시지를 반송해 주시고, 원본 메시지와 모든 사본을 폐기해 주시기 바랍니다.
+상기 메시지의 전체 또는 일부에 대해 무단 열람, 사용, 공개, 배포하는 것은 금지되어 있습니다.(주)LG CNS. 
+This message and its attachments may contain confidential information, and they are intended to be viewed or used by only the individuals specified in the message. If you have received this message in an error from the sender, please contact the sender immediately to notify the error and delete all of the message and its copies. It is prohibited to view, use, make public and/or distribute part or whole of this message without written permission.
+ 
+ 
+ 
+________________________________________
+상기 메시지와 첨부화일 내에는 비밀정보가 포함되어 있을 수 있으며, 지정된 수신자에 한하여 조회 및 사용될 수 있습니다. 만약 송신자의 실수로 인하여 상기 메시지를 수신하였다면, 송신자에게 메시지를 반송해 주시고, 원본 메시지와 모든 사본을 폐기해 주시기 바랍니다.
+상기 메시지의 전체 또는 일부에 대해 무단 열람, 사용, 공개, 배포하는 것은 금지되어 있습니다.(주)LG CNS. 
+This message and its attachments may contain confidential information, and they are intended to be viewed or used by only the individuals specified in the message. If you have received this message in an error from the sender, please contact the sender immediately to notify the error and delete all of the message and its copies. It is prohibited to view, use, make public and/or distribute part or whole of this message without written permission.
+
+ 
+________________________________________
+상기 메시지와 첨부화일 내에는 비밀정보가 포함되어 있을 수 있으며, 지정된 수신자에 한하여 조회 및 사용될 수 있습니다. 만약 송신자의 실수로 인하여 상기 메시지를 수신하였다면, 송신자에게 메시지를 반송해 주시고, 원본 메시지와 모든 사본을 폐기해 주시기 바랍니다.
+상기 메시지의 전체 또는 일부에 대해 무단 열람, 사용, 공개, 배포하는 것은 금지되어 있습니다.(주)LG CNS. 
+This message and its attachments may contain confidential information, and they are intended to be viewed or used by only the individuals specified in the message. If you have received this message in an error from the sender, please contact the sender immediately to notify the error and delete all of the message and its copies. It is prohibited to view, use, make public and/or distribute part or whole of this message without written permission.
